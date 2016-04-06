@@ -1,6 +1,6 @@
 /*
  * Print "Hello World" on screen
- * @auth Longbo Ma
+ * @author Longbo Ma
  */
 public class HelloWorld {
     public static void main( String[] args ) {
