@@ -1,0 +1,17 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lenbo-ma/hello-world.git"
+  },
+  "author": "Longbo Ma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lenbo-ma/hello-world/issues"
+  },
+  "homepage": "https://github.com/lenbo-ma/hello-world#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
